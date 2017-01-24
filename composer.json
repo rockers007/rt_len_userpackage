@@ -1,0 +1,16 @@
+{
+    "name": "module/users",
+    "description": "user module web services",
+    "type": "MIT",
+    "license": "1.0.0",
+    "authors": [
+        {
+            "name": "Rockers Technologies",
+            "email": "jaimin.rockersinfo@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        
+    }
+}
