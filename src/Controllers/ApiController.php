@@ -4,13 +4,8 @@
  */
 namespace module\users\Controllers;
 
-
-//https://laravelista.com/posts/build-an-api-with-lumen-and-fractal
-//https://github.com/dingo/api/wiki/Configuration
 use Illuminate\Routing\Controller;
 use Illuminate\Http\Response as IlluminateResponse;
-//use Laravel\Lumen\Routing\Controller as BaseController;
-//use Nord\Lumen\ImageManager\Contracts\ImageManager;
 
 class ApiController extends Controller {
 	
